@@ -8,6 +8,7 @@ FileTreeExplorer est un script Python qui parcourt récursivement un répertoire
 - **Écriture Hiérarchique** : Les fichiers et dossiers sont listés dans un fichier texte avec une indentation correspondant à leur niveau de profondeur dans l'arborescence des répertoires.
 - **Gestion d'Erreurs** : Gère les exceptions lors de l'accès à certains répertoires non autorisés ou inexistants.
 - **Personnalisable** : Vous pouvez adapter le chemin de départ en fonction de vos besoins.
-##Exemple
+
+## Exemple
 
 ![exemple d'image](images/FileTreeExplorer1.png)
